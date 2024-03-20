@@ -72,7 +72,7 @@ permalink: pretty
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
-  math_engine: mathjax
+  # math_engine: mathjax
   # Jekyll 3 and GitHub Pages now support rouge for syntax highlighting
   syntax_highlighter: rouge
   syntax_highlighter_opts:
