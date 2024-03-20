@@ -23,4 +23,5 @@ $$
 $\R$
 
 How to use `\label{}` and `\eqref{}` with `katex`?
-`https://github.com/falgon/roki-web/issues/34`
+- `https://github.com/falgon/roki-web/issues/34`
+- `https://github.com/KaTeX/KaTeX/issues/2003`
