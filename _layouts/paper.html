@@ -5,6 +5,13 @@ layout: default
 <article class="post">
   <h1>{{ page.title }}</h1>
 
+  <h4>{{ page.author }}</h4>
+
+  
+  <a href="{{ page.GG }}" class="read-more"> Google Drive </a> 
+  &#183;
+  <a href="{{ page.link }}" class="read-more"> Link </a> 
+
   <div class="entry">
     {{ content }}
     <hr>
@@ -26,6 +33,7 @@ layout: default
       {% unless forloop.last %}{% endunless %}
       {% endfor %}
   </div>
+
 
   <div class="related-posts">
     {% include related-posts.html %}
