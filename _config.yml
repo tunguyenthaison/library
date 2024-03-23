@@ -9,7 +9,7 @@ lang: "en"
 title: The Library
 
 # Short bio or description (displayed in the header)
-description: A simple, elegant and full featured Jekyll theme
+description: Capturing Literary Essence
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /assets/image/avatar.png
@@ -39,8 +39,8 @@ navigation_links:
   - title: Archive
     url: /archive
   
-  - title: References
-    url: /references
+  # - title: References
+  #   url: /references
 
   - title: Search
     url: /search
@@ -119,5 +119,5 @@ include:
   - robots.txt
 
 
-collections:
-  - references
+# collections:
+#   - references
