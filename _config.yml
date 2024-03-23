@@ -6,7 +6,7 @@
 lang: "en"
 
 # Name of your site (displayed in the header)
-title: Forever Jekyll
+title: The Library
 
 # Short bio or description (displayed in the header)
 description: A simple, elegant and full featured Jekyll theme
@@ -35,6 +35,12 @@ navigation_links:
 
   - title: About
     url: /about
+  
+  - title: Archive
+    url: /archive
+  
+  - title: References
+    url: /references
 
   - title: Search
     url: /search
@@ -73,7 +79,7 @@ kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
   # math_engine: mathjax
-  math_engine: katex
+  # math_engine: katex
   # Jekyll 3 and GitHub Pages now support rouge for syntax highlighting
   syntax_highlighter: rouge
   syntax_highlighter_opts:
@@ -112,5 +118,6 @@ exclude:
 include:
   - robots.txt
 
-# Excerpt separator
-excerpt_separator: <!--more-->
+
+collections:
+  - references

@@ -3,11 +3,11 @@ layout: default
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in site.references %}
   <article class="post">
 
-    <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-    {{ post.author }}
+    <h5> {{ post.author }} &nbsp;&#183;&nbsp; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h>
+    
     <div class="entry">
       {% if post.content contains '<!--more-->' %}
 
@@ -20,9 +20,9 @@ layout: default
       {% endif %}
     </div>
 
-    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read more&nbsp;&#183;{% include read-time.html content=post.content %}</a>
+    <!-- <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read more&nbsp;&#183;</a> -->
   </article>
   {% endfor %}
 
-  {% include pagination.html %}
+  <!-- {% include pagination.html %} -->
 </div>
