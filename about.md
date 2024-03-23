@@ -10,10 +10,13 @@ permalink: /about
 
 
 ## How to use `katex` with references
-How to use `\label{}` and `\eqref{}` with `katex`?
+
+### How to use `\label{}` and `\eqref{}` with `katex`?
 - `https://github.com/falgon/roki-web/issues/34`
 - `https://github.com/KaTeX/KaTeX/issues/2003`
  
+### Example: 
+
 $$
     \begin{aligned} \sin 2\theta = 2\sin \theta \cos \theta \\ = \cfrac{2 \tan \theta}{1+\tan^2 \theta} 
     \end{aligned} \label{1-1}\tag{1-1}
