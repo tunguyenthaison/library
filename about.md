@@ -21,7 +21,9 @@ permalink: /about
 
 {% highlight latex %}
 $$
-    \begin{aligned} \sin 2\theta = 2\sin \theta \cos \theta \\ = \cfrac{2 \tan \theta}{1+\tan^2 \theta} 
+    \begin{aligned} 
+        \sin 2\theta = 2\sin \theta \cos \theta \\ 
+                     = \cfrac{2 \tan \theta}{1+\tan^2 \theta} . 
     \end{aligned} \label{1-1}\tag{1-1}
 $$
 
