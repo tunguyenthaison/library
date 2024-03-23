@@ -17,7 +17,7 @@ permalink: /about
  
 - Example code with `label` and `tag`
 
-{% highlight latex %}
+{% highlight tex %}
 $$
     \begin{aligned} 
         \sin 2\theta = 2\sin \theta \cos \theta \\ 
