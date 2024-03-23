@@ -11,13 +11,11 @@ permalink: /about
 
 ## How to use `katex` with references
 
-### How to use `\label{}` and `\eqref{}` with `katex`?
-- `https://github.com/falgon/roki-web/issues/34`
-- `https://github.com/KaTeX/KaTeX/issues/2003`
+- How to use `\label{}` and `\eqref{}` with `katex`?
+  * `https://github.com/falgon/roki-web/issues/34`
+  * `https://github.com/KaTeX/KaTeX/issues/2003`
  
-### Example: 
-
-### Code
+- Example code with `label` and `tag`
 
 {% highlight latex %}
 $$
@@ -30,7 +28,7 @@ $$
 Search by definition $\eqref{1-1}$ or $\ref{1-1}$.
 {% endhighlight %}
 
-#### Rendered version:
+- Rendered version:
 
 $$
     \begin{aligned} \sin 2\theta = 2\sin \theta \cos \theta \\ = \cfrac{2 \tan \theta}{1+\tan^2 \theta} 
@@ -39,7 +37,7 @@ $$
 
 Search by definition $\eqref{1-1}$ or $\ref{1-1}$.
 
-# Macros
+## Macros
 - Type `\R` to obtain $\R$. 
 - Configure in  `_layouts/default.html`. 
 
