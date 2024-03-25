@@ -7,11 +7,18 @@ link:
 categories: [content]
 ---
 
+
+## Wiki article 
+- [Equidistribution theorem](https://en.wikipedia.org/wiki/Equidistribution_theorem)
+- [Equidistributed sequence](https://en.wikipedia.org/wiki/Equidistributed_sequence)
+- [Subadditivity](https://en.wikipedia.org/wiki/Subadditivity)
+- [Ergodic theory](https://en.wikipedia.org/wiki/Ergodic_theory)
+## Papers
+
 - [Short note](https://math.unm.edu/~crisp/courses/wavelets/fall13/wavelet-weyl-report2.pdf) Weyl’s Equidistribution Theorem, NIKHIL ADDLEMAN
   <br>
   [Google Drive](https://drive.google.com/file/d/1W89B57TqUy_Zo9HC1mWgnitaF_H2Zog1/view?usp=sharing) 
 
-- [Wiki article - Equidistribution theorem](https://en.wikipedia.org/wiki/Equidistribution_theorem)
 
 - [Paper](https://people.math.osu.edu/leibman.1/preprints/dcc.pdf) 
     From discrete to continuous-time ergodic theorems, 
