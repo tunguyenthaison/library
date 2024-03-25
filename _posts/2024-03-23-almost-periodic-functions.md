@@ -23,14 +23,24 @@ A better suited notation is **$N$-almost periodic function**.
 - [Equidistributed sequence](https://en.wikipedia.org/wiki/Equidistributed_sequence)
 - [Subadditivity](https://en.wikipedia.org/wiki/Subadditivity)
 - [Ergodic theory](https://en.wikipedia.org/wiki/Ergodic_theory)
-## Papers
 
-- [Paper]() A note on spaces of almost periodic functions with values in Banach spaces, Juan Matías Sepulcre and Tomás Vidal <br>
-    [Google Drive](https://drive.google.com/file/d/1vqZuSiWa2oNNEltOT44ZHZAdrP-rdfup/view?usp=sharing)
+--- 
+## Expositories
+
+- [Note](http://individual.utoronto.ca/hannigandaley/equidistribution.pdf) Equidistribution and Weyl’s criterion, Brad Hannigan-Daley <br>
+    [Google Drive](https://drive.google.com/file/d/1cVbHgTfH3pnoSFwgh7R_5fE7mNwkZhMx/view?usp=sharing)
+
 
 - [Short note](https://math.unm.edu/~crisp/courses/wavelets/fall13/wavelet-weyl-report2.pdf) Weyl’s Equidistribution Theorem, Nikhil Addleman
   <br>
   [Google Drive](https://drive.google.com/file/d/1W89B57TqUy_Zo9HC1mWgnitaF_H2Zog1/view?usp=sharing) 
+
+
+## Unsorted papers
+- [Paper]() A note on spaces of almost periodic functions with values in Banach spaces, Juan Matías Sepulcre and Tomás Vidal <br>
+    [Google Drive](https://drive.google.com/file/d/1vqZuSiWa2oNNEltOT44ZHZAdrP-rdfup/view?usp=sharing)
+
+
 
 
 - [Paper](https://people.math.osu.edu/leibman.1/preprints/dcc.pdf) 
