@@ -11,7 +11,7 @@ categories: [content]
 A better suited notation is **$N$-almost periodic function**. 
 
 ## N-almost periodic papers
-- [Paper]() On the quasi N–almost periodic functions, Stanisław Stoiński
+- [Paper]() On the quasi N–almost periodic functions, Stanisław Stoiński<br>
     [Google Drive](https://drive.google.com/file/d/16geMSauMKtXKdYwyECv3Y6HzRAPw6HyC/view?usp=sharing)
 - [Paper]() On the almost periodic functions in the sense of Levitan, Adrian        
     Michalowicz, Stanislaw Stoin ́ski <br>
@@ -28,7 +28,7 @@ A better suited notation is **$N$-almost periodic function**.
 - [Paper]() A note on spaces of almost periodic functions with values in Banach spaces, Juan Matías Sepulcre and Tomás Vidal <br>
     [Google Drive](https://drive.google.com/file/d/1vqZuSiWa2oNNEltOT44ZHZAdrP-rdfup/view?usp=sharing)
 
-- [Short note](https://math.unm.edu/~crisp/courses/wavelets/fall13/wavelet-weyl-report2.pdf) Weyl’s Equidistribution Theorem, NIKHIL ADDLEMAN
+- [Short note](https://math.unm.edu/~crisp/courses/wavelets/fall13/wavelet-weyl-report2.pdf) Weyl’s Equidistribution Theorem, Nikhil Addleman
   <br>
   [Google Drive](https://drive.google.com/file/d/1W89B57TqUy_Zo9HC1mWgnitaF_H2Zog1/view?usp=sharing) 
 
