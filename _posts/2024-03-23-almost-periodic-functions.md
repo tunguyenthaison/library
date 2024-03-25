@@ -42,7 +42,7 @@ A better suited notation is **$N$-almost periodic function**.
   <br>
   [Google Drive](https://drive.google.com/file/d/1W89B57TqUy_Zo9HC1mWgnitaF_H2Zog1/view?usp=sharing) 
 
-
+---
 ## Unsorted papers
 - [Paper]() A note on spaces of almost periodic functions with values in Banach spaces, Juan Matías Sepulcre and Tomás Vidal <br>
     [Google Drive](https://drive.google.com/file/d/1vqZuSiWa2oNNEltOT44ZHZAdrP-rdfup/view?usp=sharing)
