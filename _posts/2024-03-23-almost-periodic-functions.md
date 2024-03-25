@@ -8,7 +8,7 @@ categories: [content]
 ---
 
 
-A better suited notation is **$N$-almost periodic function**. 
+A better suited notation is **$N$-almost periodic function**. The problem is the mean value of these functions may not exist.
 
 ## N-almost periodic papers
 - [Paper]() On the quasi N–almost periodic functions, Stanisław Stoiński<br>
