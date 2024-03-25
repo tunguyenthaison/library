@@ -18,6 +18,13 @@ A better suited notation is **$N$-almost periodic function**.
     [Google Drive](https://drive.google.com/file/d/1ef2nrUeISYneJ956qqo1RrYZZNpg3nxy/view?usp=sharing)
 
 --- 
+## Books
+- Almost periodic functions and differential equations, B.M.Levitan & V.V.Zhikov
+  <br>
+    [Google Drive](https://drive.google.com/file/d/1wq8oYtktS9NU8M_JT4OJjftDosgaTakb/view?usp=sharing)
+
+
+--- 
 ## Wiki article 
 - [Equidistribution theorem](https://en.wikipedia.org/wiki/Equidistribution_theorem)
 - [Equidistributed sequence](https://en.wikipedia.org/wiki/Equidistributed_sequence)
