@@ -23,6 +23,11 @@ A better suited notation is **$N$-almost periodic function**. The problem is the
   <br>
     [Google Drive](https://drive.google.com/file/d/1wq8oYtktS9NU8M_JT4OJjftDosgaTakb/view?usp=sharing)
 
+- Fourier Analysis, T. W. Körner <br>
+  Chapter 3: Weyl distribution <br>
+  [Google Drive](https://drive.google.com/file/d/1btrHmVA93nym5ACTxpZpX1WYM4C384hb/view?usp=sharing)
+
+
 
 --- 
 ## Wiki article 
@@ -57,3 +62,9 @@ A better suited notation is **$N$-almost periodic function**. The problem is the
     This paper gives a way how to go from discrete average to integral form. 
     </details>
     [Google Drive](https://drive.google.com/file/d/1X3qq22JBdvrmgDKRSeEFr3hC3PYqMN0P/view?usp=sharing)
+
+
+
+--- 
+## Math Overflow and Math Stack Exchange posts
+- [Elementary proof of the equidistribution theorem](https://mathoverflow.net/questions/75777/elementary-proof-of-the-equidistribution-theorem)
