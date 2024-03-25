@@ -49,11 +49,22 @@ A better suited notation is **$N$-almost periodic function**. The problem is the
 
 ---
 ## Unsorted papers
+- [Paper]() THE THEORY OF ALMOST PERIODIC FUNCTIONS
+IN CONSTRUCTIVE MATHEMATICS
+JAMES BROM<br>
+    [Google Drive](https://drive.google.com/file/d/18DoQTY-ZONh97T16_eafFxN_Z6ez2h-A/view?usp=sharing)
+- [Paper](https://people.math.ethz.ch/~einsiedl/eff-equi-5ECM.pdf) EFFECTIVE EQUIDISTRIBUTION AND SPECTRAL GAP
+MANFRED EINSIEDLER
 - [Paper]() A note on spaces of almost periodic functions with values in Banach spaces, Juan Matías Sepulcre and Tomás Vidal <br>
     [Google Drive](https://drive.google.com/file/d/1vqZuSiWa2oNNEltOT44ZHZAdrP-rdfup/view?usp=sharing)
+- [Paper]() ALMOST-PERIODIC FUNCTIONS WITH
+UNBOUNDED INTEGRAL, RUSSELL A. JOHNSON<br>
+    [Google Drive](https://drive.google.com/file/d/1CEI5AB_nM7Uz2iYidyFJFQjYXTY6w2A3/view?usp=sharing)
 
 
-
+## Lecture notes
+- [Equidistribution modulo 1 and related problems](https://www.math.stonybrook.edu/~rdhough/mat141-fall16/lectures/lecture24.pdf)
+- [Equidistribution in Number Theory, Salim Ali Altuğ](https://alexjbest.github.io/equidistribution/equidistribution.pdf)
 
 - [Paper](https://people.math.osu.edu/leibman.1/preprints/dcc.pdf) 
     From discrete to continuous-time ergodic theorems, 
@@ -67,4 +78,17 @@ A better suited notation is **$N$-almost periodic function**. The problem is the
 
 --- 
 ## Math Overflow and Math Stack Exchange posts
+
+- [Long time average of solution to ODE with almost periodic structure](https://mathoverflow.net/questions/346852/long-time-average-of-solution-to-ode-with-almost-periodic-structure)
+
+--- 
+
 - [Elementary proof of the equidistribution theorem](https://mathoverflow.net/questions/75777/elementary-proof-of-the-equidistribution-theorem)
+- [Does equidistribution of zero average, due to irrationality, imply boundedness?](https://mathoverflow.net/questions/150863/does-equidistribution-of-zero-average-due-to-irrationality-imply-boundedness?rq=1)
+- [Generalization(s) of Subadditive Ergodic Theorems](https://mathoverflow.net/questions/94782/generalizations-of-subadditive-ergodic-theorems?rq=1)
+- [Quantitative versions of ergodic theorem](https://mathoverflow.net/questions/4411/quantitative-versions-of-ergodic-theorem)
+- [Non-oscillatory behaviour in the subadditive ergodic theorem](https://mathoverflow.net/questions/70676/non-oscillatory-behaviour-in-the-subadditive-ergodic-theorem?rq=1)
+- [Ergodic theorem and products](https://mathoverflow.net/questions/322571/ergodic-theorem-and-products?rq=1)
+- [non-integrable subadditive ergodic theorem](https://mathoverflow.net/questions/82214/non-integrable-subadditive-ergodic-theorem?rq=1)
+- [The function $f(x) = 2+\sin(x)+\sin(2\sqrt{2}x)$](https://math.stackexchange.com/questions/790947/the-function-ft-2-sint-sint-sqrt2?noredirect=1&lq=1)
+- [Dominated convergence for quasi-periodic functions](https://mathoverflow.net/questions/252555/dominated-convergence-for-quasi-periodic-functions)
