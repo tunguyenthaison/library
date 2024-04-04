@@ -1,2 +1,4 @@
 # the site folder
-_site/
+_site
+
+script.sh
