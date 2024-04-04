@@ -55,9 +55,9 @@ footer_links:
     # url: https://twitter.com/jekyllrb
     # icon: fa fa-twitter-square
 
-  # - title: GitHub
-    # url: https://github.com/forever-jekyll
-    # icon: fa fa-github-square
+  - title: GitHub
+    url: https://tunguyenthaison.github.io
+    icon: fa fa-github-square
 
 # Enter your copyright text if you wish to override the default one.
 #copyright: "This site is made with <3 by *me, myself, and I*."
