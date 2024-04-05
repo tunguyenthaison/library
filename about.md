@@ -4,7 +4,9 @@ title: About
 permalink: /about
 ---
 
-## Commonly used links: 
+
+- [Reading list](./content/article/2024/01/07/utopian-for-beginngers/)
+
 
 - [Hackerrank](https://www.hackerrank.com/domains/algorithms)
 
