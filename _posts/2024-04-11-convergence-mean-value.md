@@ -10,7 +10,7 @@ categories: [content]
 
 
 
-
+{: .message }
 Let $f\in \mathrm{AP}(\mathbb{R})$, $\varepsilon>0$ and $l_\varepsilon(f)$ be the length of the inclusion interval. 
 Then $\sup_{\mathbb{R}} |f| \leq \sup_{[0,l_\varepsilon]}  |f| + \varepsilon$ and furthermore, for $T>0$ we have 
 
@@ -23,7 +23,7 @@ $$
 
 --- 
 
-<!-- {: .message } -->
+
 
 
 Let $n\in \mathbb{N}$, we write 
