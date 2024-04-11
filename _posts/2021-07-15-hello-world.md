@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Template
-categories: [content, demo]
+categories: [demo]
 ---
 
 Hello and welcome. <!--more--> 
