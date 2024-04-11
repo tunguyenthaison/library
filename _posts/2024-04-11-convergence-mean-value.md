@@ -10,7 +10,7 @@ categories: [content]
 
 
 
-{% theorem %}
+
 Let $f\in \mathrm{AP}(\mathbb{R})$, $\varepsilon>0$ and $l_\varepsilon(f)$ be the length of the inclusion interval. 
 Then $\sup_{\mathbb{R}} |f| \leq \sup_{[0,l_\varepsilon]}  |f| + \varepsilon$ and furthermore, for $T>0$ we have 
 
@@ -19,13 +19,12 @@ $$
     \left|\frac{1}{T}\int_0^T f(x)\;dx - M(f)\right|   \leq  \varepsilon + 2\left(\sup_{x\in \mathbb{R}} |f(x)|\right) \frac{ l_\varepsilon(f)}{T}.
 \end{equation}
 $$
-{% endtheorem %}
+
 
 --- 
 
 <!-- {: .message } -->
 
-{% proof %}
 
 Let $n\in \mathbb{N}$, we write 
 
@@ -79,6 +78,5 @@ $$\lim_{n\to \infty}\frac{1}{nT}\int_{0}^{nT} f(x)\;dx = M(f)$$
 
 exists by assumption $f\in \mathrm{AP}(\mathbb{R})$.
 
-{% endproof %}
 
 We will revisit this in the future.
