@@ -8,6 +8,8 @@ categories: [content]
 ---
 
 
+- 2024-04-15, [How To Present Mathematics To Non-Mathematicians?](https://mathoverflow.net/questions/47214/how-to-present-mathematics-to-non-mathematicians/47830#47830)    
+    A good read from Math Stack Exchange with many great examples 
 
 
 
