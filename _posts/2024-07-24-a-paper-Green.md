@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: paper
 title: "Sharp Estimates for the Green Function in Lipschitz Domains"
 author: Krzysztof Bogdan
 GG: https://drive.google.com/file/d/1fgKKXgpug9Ce3ub35rri0vHKINGAj5iJ/view?usp=sharing
