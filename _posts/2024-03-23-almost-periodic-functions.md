@@ -8,6 +8,15 @@ categories: [content]
 ---
 
 
+## 2D almost periodic papers 
+
+A paper where the notion of 2D mean value can be computed. 
+
+- Philip Franklin, The Elementary Theory of Almost Periodic Functions of Two Variables, Journal of Mathematics and Physics Volume 5, Issue 1-4 Jan 1926, Pages 1-261 <br>
+    [pdf](https://drive.google.com/file/d/1DxJnqR37VxyzYGj2zrHVl6fCP7a-lmcv/view?usp=sharing) 
+    -- 
+    [correction](https://drive.google.com/file/d/1oNrlfnsB77D4QXccosC7scsEXga5Zd1w/view?usp=sharing)
+
 A better suited notation is **$N$-almost periodic function**. The problem is the mean value of these functions may not exist.
 
 ## N-almost periodic papers
