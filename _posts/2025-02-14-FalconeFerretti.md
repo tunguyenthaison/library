@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "emi-Lagrangian approximation schemes for linear and Hamilton-Jacobi equations"
+title: "Semi-Lagrangian approximation schemes for linear and Hamilton-Jacobi equations"
 author: Maurizio Falcone, Roberto Ferretti
 GG: https://drive.google.com/file/d/149M1vp6A1naZYSXS2qGZjWeV4tSzZU0P/view?usp=sharing
 link: 
